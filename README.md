@@ -12,8 +12,19 @@
 
 
 <div>
-<a href="https://github.com/pedroduuarte">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroduuarte&layout=compact&langs_count=7&theme=dracula"/>
+ <a href="https://github.com/pedroduuarte">
+ <img 
+    loading="lazy" 
+    align="left"
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroduuarte&layout=compact&langs_count=7&theme=dracula"/>
+  <img 
+    loading="lazy"
+    align="left" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=pedroduuarte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 </div>
 
 ## Contatos
